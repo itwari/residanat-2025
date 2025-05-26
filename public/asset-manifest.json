@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d0934b1.css",
+    "main.js": "/static/js/main.6a42d76e.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/banner_residanat_2025.png": "/static/media/banner_residanat_2025.9b920edc8c6293a79c3d.png",
+    "static/media/icon_filiere_dentaire.png": "/static/media/icon_filiere_dentaire.2833aa06255ef2efa57a.png",
+    "static/media/icon_filiere_medecine.png": "/static/media/icon_filiere_medecine.5ec1d9f5e93dfbaa3a21.png",
+    "static/media/icon_filiere_pharmacie.png": "/static/media/icon_filiere_pharmacie.743bd700997326bec54c.png",
+    "static/media/icon_medical_user.png": "/static/media/icon_medical_user.179f6a022b6521df1f6b.png",
+    "static/media/icon_medical_password.png": "/static/media/icon_medical_password.7b465fcf4ac92e378a93.png",
+    "static/media/icon_medical_email.png": "/static/media/icon_medical_email.ab9bf733dbac19170e18.png",
+    "index.html": "/index.html",
+    "main.9d0934b1.css.map": "/static/css/main.9d0934b1.css.map",
+    "main.6a42d76e.js.map": "/static/js/main.6a42d76e.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d0934b1.css",
+    "static/js/main.6a42d76e.js"
+  ]
+}

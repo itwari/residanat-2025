@@ -1,0 +1,4 @@
+nohup: ignoring input
+Serveur API démarré sur le port 5000
+Connexion à la base de données SQLite établie avec succès
+Modèles synchronisés avec la base de données
