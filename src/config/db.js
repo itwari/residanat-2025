@@ -27,7 +27,7 @@ const connectDB = async () => {
     
     // Synchroniser les modèles avec la base de données
     // force: true va supprimer et recréer les tables (à utiliser avec précaution)
-    await sequelize.sync({ force: true }); // Modifié pour forcer la création des tables
+    await sequelize.sync({ alter: true }); // Modifié pour forcer la création des tables
     console.log('Modèles synchronisés avec la base de données');
     
     return true;
